@@ -1,1 +1,1 @@
-this directory is for Logic in your Project that can be common use for 
+this directory is for Logic in your Project that can be use for other project
